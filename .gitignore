@@ -1,0 +1,9 @@
+﻿node_modules/
+bin/
+obj/
+.vs/
+.gradle/
+android/app/build/
+android/build/
+android/app/.cxx/
+*.apk
